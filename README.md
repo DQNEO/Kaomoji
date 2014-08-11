@@ -1,7 +1,6 @@
-Kaomoji
+Japanese Kaomoji Collection( ˘ω˘)
 =======
 
-Japanese Kaomoji Collection( ˘ω˘)
 
 |にほんご|Figure
 ---|---
